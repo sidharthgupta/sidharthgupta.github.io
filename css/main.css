@@ -27,6 +27,7 @@ h1 {
 }
 h2 {
     font-size: 2em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
     line-height: 1.4em;
@@ -49,4 +50,15 @@ td {
   vertical-align: middle;
   padding: 5px;
   text-align: left;
+}
+
+table, caption {
+  font-size: inherit;
+  font-weight: inherit;
+  font-style: inherit;
+  font-variant: inherit;
+}
+
+li {
+    padding: 5px;
 }
