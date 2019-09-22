@@ -52,6 +52,13 @@ td {
   text-align: left;
 }
 
+tr {
+    font-size: inherit;
+    font-weight: inherit;
+    font-style: inherit;
+    font-variant: inherit;
+}
+
 table, caption {
   font-size: inherit;
   font-weight: inherit;
