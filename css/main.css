@@ -59,6 +59,8 @@ table, caption {
   font-variant: inherit;
 }
 
-li {
+/*li {
     padding: 5px;
-}
+}*/
+
+ul li { padding: 5px 0px; }
